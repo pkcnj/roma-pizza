@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Traditional Nushu
+- Font Author: Copyright 2020 Google LLC. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/nototraditionalnushu/v16/SZco3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67J011GNh6SYA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
